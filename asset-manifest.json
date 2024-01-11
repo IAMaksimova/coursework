@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/coursework/static/css/main.20bab235.css",
+    "main.js": "/coursework/static/js/main.c13fa184.js",
+    "static/js/787.60bec73b.chunk.js": "/coursework/static/js/787.60bec73b.chunk.js",
+    "static/media/ivan-transparent.png": "/coursework/static/media/ivan-transparent.9b78a2c68e04c54b4498.png",
+    "static/media/XV5RiinD3mG7z0xaJwyvk-transformed (1).png": "/coursework/static/media/XV5RiinD3mG7z0xaJwyvk-transformed (1).2450dedbdc74cdd4ba5f.png",
+    "static/media/home-about-cover.webp": "/coursework/static/media/home-about-cover.3aff81fd577efc828fa3.webp",
+    "static/media/shurik.jpg": "/coursework/static/media/shurik.79b486f03820dd0a9133.jpg",
+    "static/media/ivan-vasilevich.jpg": "/coursework/static/media/ivan-vasilevich.4ccec72a84223be7e215.jpg",
+    "static/media/ryazanov.jpg": "/coursework/static/media/ryazanov.54817ff9962fa6bfae59.jpg",
+    "static/media/home-text-cover.jpg": "/coursework/static/media/home-text-cover.7cc71616530f13ded0b8.jpg",
+    "static/media/jpg": "/coursework/static/media/050b52e67923c30240a28186e9e674e4.b6f0b408b3263310329a.jpg",
+    "static/media/home-main-cover.jpg": "/coursework/static/media/home-main-cover.36f956c7398172fd0837.jpg",
+    "static/media/love-and-birds.jpeg": "/coursework/static/media/love-and-birds.da129dfe50918a416928.jpeg",
+    "static/media/dzhentelmens-udachi.webp": "/coursework/static/media/dzhentelmens-udachi.4bebdd8dc17d216ba64f.webp",
+    "static/media/brilliant.jpeg": "/coursework/static/media/brilliant.d16bf4e96b9639e20de0.jpeg",
+    "static/media/gaidai.webp": "/coursework/static/media/gaidai.261fa8379a9b955cf7d1.webp",
+    "static/media/italians-in-russia.png": "/coursework/static/media/italians-in-russia.9a6afc7afd001d548e35.png",
+    "static/media/seryi.jpg": "/coursework/static/media/seryi.7fbf356082573ebea295.jpg",
+    "index.html": "/coursework/index.html",
+    "main.20bab235.css.map": "/coursework/static/css/main.20bab235.css.map",
+    "main.c13fa184.js.map": "/coursework/static/js/main.c13fa184.js.map",
+    "787.60bec73b.chunk.js.map": "/coursework/static/js/787.60bec73b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bab235.css",
+    "static/js/main.c13fa184.js"
+  ]
+}
