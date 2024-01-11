@@ -15,7 +15,7 @@ function App() {
         <GlobalStyle/>
         <Menu/>
         <Routes>
-            <Route element={<HomePage/>} path={'/'}/>
+            <Route element={<HomePage/>} path={'*'}/>
             <Route element={<Films/>} path={'films'}/>
             <Route element={<Directors/>} path={'directors'}/>
             <Route element={<Contact/>} path={'contact'}/>
